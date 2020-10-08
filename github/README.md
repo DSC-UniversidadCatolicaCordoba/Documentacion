@@ -7,17 +7,17 @@ Estas practicas son muy utilizadas en ambientes laborales, ya que esto permite o
 En base a lo comentado anteriormente procederemos a mostrar un caso practico de como trabajar. Lo primero de todo es acceder a nuestro tablero de trabajo presionando [aqui](https://dsc-ucc-donation.atlassian.net/secure/RapidBoard.jspa?rapidView=1&selectedIssue=PDDU-2)
 
 Lo que vera sera algo como esto:
-![alt text](https://github.com/DSC-UniversidadCatolicaCordoba/Documentacion/tree/main/github/imagenes/1.png)
+![alt text](https://github.com/DSC-UniversidadCatolicaCordoba/Documentacion/tree/main/github/imagenes/1)
 
 Si pudo ver bien va a tener activiades que estan puestas a su nombre, si accede una de ellas se encontrara con lo siguiente.
-![alt text](https://github.com/DSC-UniversidadCatolicaCordoba/Documentacion/tree/main/github/imagenes/2.png)
+![alt text](https://github.com/DSC-UniversidadCatolicaCordoba/Documentacion/tree/main/github/imagenes/2)
 * Titulo
 * Descripcion: Lo que se tendra que realizar en la siguiente tarea
 * El encargado de la actividad.
 * El estado el cual se encuentra la actividad.
 
 Lo que se realizara en el caso de realizar la actividad es cambiar el estado de la actividad de **tarea por hacer** a **en curso**. Si se hizo correctamente veran como cambio de lugar la tarea.
-![alt text](https://github.com/DSC-UniversidadCatolicaCordoba/Documentacion/tree/main/github/imagenes/3.png)
+![alt text](https://github.com/DSC-UniversidadCatolicaCordoba/Documentacion/blob/main/github/imagenes/3.png)
 
 ## Trabajar con Github
 Lo que haremos a continuacion es trabajar con Github, para hacer esto iremos al repositorio el cual nos especifica la descripcion de la tarea y procederemos a clonarlo. Se puede realizar de dos formas, descargando el zip o utilizando los comandos de github.
